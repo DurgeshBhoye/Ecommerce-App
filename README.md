@@ -24,7 +24,7 @@
 
 ## Tech Stack
 
-**Client:** React • Axios • React-PayPal-Js • React-Router-Dom
+*Client:* React • Axios • React-PayPal-Js • React-Router-Dom
 
 **Server:** Node • Express • JWT • Cors • Multer • Mongoose 
 
