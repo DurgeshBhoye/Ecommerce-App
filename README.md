@@ -11,8 +11,6 @@
 
 ![Product Screen](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/ProductScreen.jpg?raw=true)
 
-![About Page](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/About.jpg?raw=true)
-
 ![Profile Page](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/ProfilePage.jpg?raw=true)
 
 ![SignIn Page](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/SignIn.jpg?raw=true)
@@ -20,6 +18,8 @@
 ![Cart Page](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/CartPage.jpg?raw=true)
 
 ![Payment Screen](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/PaymentScreen.jpg?raw=true)
+
+![Paid Order Screen](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/PaidOrder.jpg?raw=true "Home Page")
 
 
 ## Tech Stack
