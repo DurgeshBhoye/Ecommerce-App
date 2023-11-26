@@ -9,6 +9,7 @@
 
 ![About Page](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/About.jpg?raw=true "Home Page")
 
+![Profile Page](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/ProfileScreen.jpg?raw=true "Home Page")
 
 ## Tech Stack
 
