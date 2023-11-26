@@ -7,7 +7,7 @@
 
 ![All Products Page](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/AllProducts.jpg?raw=true "All Products Page")
 
-
+![About Page](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/About.jpg?raw=true "Home Page")
 
 
 ## Tech Stack
