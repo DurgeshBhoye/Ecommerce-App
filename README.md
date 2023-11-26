@@ -3,7 +3,9 @@
 ### Project Screenshots
 
 
-![App screenshot](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/HomeScreen.jpg?raw=true "Optional title")
+![App screenshot](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/HomeScreen.jpg?raw=true "Home Page")
+
+![App screenshot](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/Allproducts.jpg?raw=true "All Products Page")
 
 
 
