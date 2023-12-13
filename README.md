@@ -1,5 +1,27 @@
 # Ecommerce-App
 
+### Project Screenshots
+
+
+![Home Page](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/HomeScreen.jpg?raw=true "Home Page")
+
+![All Products Page](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/AllProducts.jpg?raw=true "All Products Page")
+
+![Filter Product Screen](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/FilterPage.jpg?raw=true)
+
+![Product Screen](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/ProductScreen.jpg?raw=true)
+
+![Profile Page](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/ProfilePage.jpg?raw=true)
+
+![SignIn Page](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/SignIn.jpg?raw=true)
+
+![Cart Page](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/CartPage.jpg?raw=true)
+
+![Payment Screen](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/PaymentScreen.jpg?raw=true)
+
+![Paid Order Screen](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/PaidOrder.jpg?raw=true "Home Page")
+
+
 
 ## Tech Stack
 
@@ -24,25 +46,4 @@
 ![vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=blue)
 
-
-### Project Screenshots
-
-
-![Home Page](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/HomeScreen.jpg?raw=true "Home Page")
-
-![All Products Page](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/AllProducts.jpg?raw=true "All Products Page")
-
-![Filter Product Screen](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/FilterPage.jpg?raw=true)
-
-![Product Screen](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/ProductScreen.jpg?raw=true)
-
-![Profile Page](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/ProfilePage.jpg?raw=true)
-
-![SignIn Page](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/SignIn.jpg?raw=true)
-
-![Cart Page](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/CartPage.jpg?raw=true)
-
-![Payment Screen](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/PaymentScreen.jpg?raw=true)
-
-![Paid Order Screen](https://github.com/DurgeshBhoye/Ecommerce-App/blob/main/img/PaidOrder.jpg?raw=true "Home Page")
 
