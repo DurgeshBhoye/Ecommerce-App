@@ -29,6 +29,8 @@
 [![ReactJs](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/DurgeshBhoye/Instagram-Clone-App)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![paypal](https://img.shields.io/badge/paypal-%2320232a.svg?style=for-the-badge&logo=paypal&logoColor=003087)
+![fontawesome](https://img.shields.io/badge/fontawesome-%2320232a.svg?style=for-the-badge&logo=fontawesome&logoColor=#528DD7)
 </br>
 
 #### Backend
